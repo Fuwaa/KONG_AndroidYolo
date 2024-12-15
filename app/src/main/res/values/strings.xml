@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">milk</string>
+
+    <string-array name="model">
+        <item>yolov5s</item>
+        <item>yolov5s+SimAM </item>
+        <item>yolov5s+SEAttention</item>
+        <item>yolov5s+ShuffleAttention</item>
+    </string-array>
+</resources>
